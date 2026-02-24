@@ -2,4 +2,4 @@
 
 # Questboard Testing
 
-![Shitty Drawing of a pinboard](/assets/alphatest.png)
+![Shitty Drawing of a pinboard](/alphatest.png)
