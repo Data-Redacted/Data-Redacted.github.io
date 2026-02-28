@@ -30,13 +30,13 @@
 }
 #ContestFlyer{
   position: absolute;
-    bottom: 35%;
-    right: 60%;
+    bottom: 15%;
+    right: 70%;
     width: 10%;
 }
 #GibberishFlyer{
   position: absolute;
-    bottom: 45%;
-    Left: 75%;
+    bottom: 25%;
+    Left: 65%;
     width: 10%;
 }
