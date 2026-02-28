@@ -1,0 +1,12 @@
+#container{
+  position: relative;
+}
+#Questboard{
+  width: 100%;
+}
+#Poster1{
+  position: absolute;
+    bottom: 100px;
+    right: 100px;
+    width: 10%;
+}
